@@ -1,5 +1,6 @@
 <?php
 script('socialcartography', 'script');
+script('socialcartography', 'dynamic-graph.bundle.min');
 style('socialcartography', 'style');
 ?>
 
