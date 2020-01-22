@@ -7,8 +7,9 @@
     background="0xffffff">
   </dynamic-graph>
 
-<script type="text/javascript" src="dynamic-graph.bundle.min.js"></script>
+<script type="text/javascript" src="js/dynamic-graph.bundle.min.js"></script>
 <script type="text/javascript">
+
   var graph, vid, eid;
   var vertices = 100
   var removals = 10;
