@@ -4,5 +4,5 @@
   id="graph" 
   width="600" 
   height="350" 
-  background="0x000000">
+  background="#ffffff">
 </dynamic-graph>
