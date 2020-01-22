@@ -1,6 +1,6 @@
 
 var graph, vid, eid;
-var vertices = 100
+var vertices = 100;
 var removals = 10;
 var additions = 10;
 
