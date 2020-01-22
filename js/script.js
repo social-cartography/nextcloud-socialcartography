@@ -45,9 +45,6 @@ function round(){
 }
 
 $(document).ready(function(){
-
-  graph.width = $(document).width();
-  graph.height = $(document).height();
   
   setup()
   setInterval(round, 100);
