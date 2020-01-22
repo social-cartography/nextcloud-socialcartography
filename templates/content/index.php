@@ -2,12 +2,12 @@
 
 <dynamic-graph 
     id="graph" 
-    width="100%" 
-    height="100%" 
+    width="600" 
+    height="350" 
     background="0xffffff">
   </dynamic-graph>
 
-<script type="text/javascript" src="dist/dynamic-graph.bundle.min.js"></script>
+<script type="text/javascript" src="dynamic-graph.bundle.min.js"></script>
 <script type="text/javascript">
   var graph, vid, eid;
   var vertices = 100
