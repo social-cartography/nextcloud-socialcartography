@@ -1,0 +1,15 @@
+{
+    "name": "Social Cartography",
+    "description": "A Social Contact List",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Joshua M. Moore"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
