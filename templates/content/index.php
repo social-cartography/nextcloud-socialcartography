@@ -14,6 +14,7 @@
   var vertices = 100
   var removals = 10;
   var additions = 10;
+
   function setup(){
     graph = document.querySelector('#graph').graph;
 
@@ -54,6 +55,10 @@
 
   }
 
-  setup()
-  setInterval(round, 100);
+  $(document).ready(function(){
+    
+    setup()
+    setInterval(round, 100);
+
+  })
 </script>
